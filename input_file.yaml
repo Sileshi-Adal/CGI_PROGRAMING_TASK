@@ -1,0 +1,15 @@
+URLs:
+ 
+  - https://www.hs.fi
+  - https://www.cgi.fi/fi
+  - https://www.freertos.org/
+  - https://www.bbc.com/
+
+
+  
+# Contains list of RegEx
+RegEx: 
+  - <title>(.*?)</title>
+  - (\w+@\w+\.{1}\w+)
+ 
+

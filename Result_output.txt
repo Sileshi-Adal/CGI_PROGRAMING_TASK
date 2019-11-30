@@ -1,0 +1,68 @@
+Date: 30-11-2019 Time: 03:27:54:382607_PM  | URL:  https://www.hs.fi  | Response Time:  0.38 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:27:54:382607_PM  | URL:  https://www.hs.fi  | Response Time:  0.38 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:27:54:382607_PM  | URL:  https://www.hs.fi  | Response Time:  0.38 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:27:54:833159_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.95 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:27:54:833159_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:27:55:799892_PM  | URL:  https://www.freertos.org/  | Response Time:  1.67 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:27:55:799892_PM  | URL:  https://www.freertos.org/  | Response Time:  1.67 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:27:57:479940_PM  | URL:  https://www.bbc.com/  | Response Time:  0.63 s https://www.bbc.com/  | Contents:  BBC - Homepage
+Date: 30-11-2019 Time: 03:27:57:479940_PM  | URL:  https://www.bbc.com/ | content not found with this regex:  (\w+@\w+\.{1}\w+)
+#################################
+
+Date: 30-11-2019 Time: 03:28:03:147970_PM  | URL:  https://www.hs.fi  | Response Time:  0.39 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:28:03:147970_PM  | URL:  https://www.hs.fi  | Response Time:  0.39 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:28:03:147970_PM  | URL:  https://www.hs.fi  | Response Time:  0.39 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:28:03:628489_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.93 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:28:03:628489_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:28:04:573997_PM  | URL:  https://www.freertos.org/  | Response Time:  1.94 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:28:04:573997_PM  | URL:  https://www.freertos.org/  | Response Time:  1.94 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:28:06:516776_PM  | URL:  https://www.bbc.com/  | Response Time:  0.96 s https://www.bbc.com/  | Contents:  BBC - Homepage
+Date: 30-11-2019 Time: 03:28:06:516776_PM  | URL:  https://www.bbc.com/ | content not found with this regex:  (\w+@\w+\.{1}\w+)
+#################################
+
+Date: 30-11-2019 Time: 03:28:12:509812_PM  | URL:  https://www.hs.fi  | Response Time:  0.46 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:28:12:509812_PM  | URL:  https://www.hs.fi  | Response Time:  0.46 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:28:12:509812_PM  | URL:  https://www.hs.fi  | Response Time:  0.46 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:28:13:057055_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.76 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:28:13:057055_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:28:13:832357_PM  | URL:  https://www.freertos.org/  | Response Time:  1.69 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:28:13:832357_PM  | URL:  https://www.freertos.org/  | Response Time:  1.69 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:29:47:370989_PM  | URL:  https://www.hs.fi  | Response Time:  0.56 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:29:47:370989_PM  | URL:  https://www.hs.fi  | Response Time:  0.56 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:29:47:370989_PM  | URL:  https://www.hs.fi  | Response Time:  0.56 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:29:47:987513_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.75 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:29:47:987513_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:29:48:747127_PM  | URL:  https://www.freertos.org/  | Response Time:  2.01 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:29:48:747127_PM  | URL:  https://www.freertos.org/  | Response Time:  2.01 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:29:50:763471_PM  | URL:  https://www.bbc.com/  | Response Time:  1.11 s https://www.bbc.com/  | Contents:  BBC - Homepage
+Date: 30-11-2019 Time: 03:29:50:763471_PM  | URL:  https://www.bbc.com/ | content not found with this regex:  (\w+@\w+\.{1}\w+)
+#################################
+
+Date: 30-11-2019 Time: 03:29:56:909225_PM  | URL:  https://www.hs.fi  | Response Time:  0.33 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:29:56:909225_PM  | URL:  https://www.hs.fi  | Response Time:  0.33 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:29:56:909225_PM  | URL:  https://www.hs.fi  | Response Time:  0.33 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:29:57:292215_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.75 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:29:57:292215_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:29:58:053842_PM  | URL:  https://www.freertos.org/  | Response Time:  1.74 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:29:58:053842_PM  | URL:  https://www.freertos.org/  | Response Time:  1.74 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:29:59:797544_PM  | URL:  https://www.bbc.com/  | Response Time:  0.92 s https://www.bbc.com/  | Contents:  BBC - Homepage
+Date: 30-11-2019 Time: 03:29:59:797544_PM  | URL:  https://www.bbc.com/ | content not found with this regex:  (\w+@\w+\.{1}\w+)
+#################################
+
+Date: 30-11-2019 Time: 03:31:03:805414_PM  | URL:  https://www.hs.fi  | Response Time:  0.74 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:31:03:805414_PM  | URL:  https://www.hs.fi  | Response Time:  0.74 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:31:03:805414_PM  | URL:  https://www.hs.fi  | Response Time:  0.74 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:31:04:628471_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.96 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:31:04:628471_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
+Date: 30-11-2019 Time: 03:31:05:602185_PM  | URL:  https://www.freertos.org/  | Response Time:  1.75 s https://www.freertos.org/  | Contents:  FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions
+Date: 30-11-2019 Time: 03:31:05:602185_PM  | URL:  https://www.freertos.org/  | Response Time:  1.75 s https://www.freertos.org/  | Contents:  info@freertos.org
+Date: 30-11-2019 Time: 03:31:07:356354_PM  | URL:  https://www.bbc.com/  | Response Time:  1.00 s https://www.bbc.com/  | Contents:  BBC - Homepage
+Date: 30-11-2019 Time: 03:31:07:356354_PM  | URL:  https://www.bbc.com/ | content not found with this regex:  (\w+@\w+\.{1}\w+)
+
+#################################
+
+Date: 30-11-2019 Time: 03:34:21:592119_PM  | URL:  https://www.hs.fi  | Response Time:  0.50 s https://www.hs.fi  | Contents:  Uutiset | HS.fi
+Date: 30-11-2019 Time: 03:34:21:592119_PM  | URL:  https://www.hs.fi  | Response Time:  0.50 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:34:21:592119_PM  | URL:  https://www.hs.fi  | Response Time:  0.50 s https://www.hs.fi  | Contents:  online@hs.fi
+Date: 30-11-2019 Time: 03:34:22:212022_PM  | URL:  https://www.cgi.fi/fi  | Response Time:  0.90 s https://www.cgi.fi/fi  | Contents:  IT- ja liiketoimintakonsultoinnin palvelut | CGI FI
+Date: 30-11-2019 Time: 03:34:22:212022_PM  | URL:  https://www.cgi.fi/fi | content not found with this regex:  (\w+@\w+\.{1}\w+)
