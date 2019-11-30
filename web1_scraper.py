@@ -1,6 +1,18 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+
+''' 
+    This program is a Python3 Web scraping programming task, which scraps the list of urls based on the given 
+    regular expersion codes as an input_file and save fetched content as a result_file.text form.
+       
+'''
+
+__author__ = "Sileshi Adal(sileshi.ziena2@gmail.com)"
+__date__ = "Date: 30.11.2019"
+__version__ = "Version: Python 3.6.3 "
+
+
 import re, ssl
 import os
 import sys
@@ -13,7 +25,7 @@ import yaml
 
 class Web_scraper():
     """
-    Web_scraper accepts .yaml file as an argument.
+    The Web_scraper class accepts the input_file.yaml file as an argument.
     """
 
     def __init__(self, input_file, url_access, regex_access, output_file='Result_output.txt'):
@@ -32,7 +44,7 @@ class Web_scraper():
         self.output_file = output_file
 
     def fetch_web_cont(self):
-
+        """ fetch data from the input_file.yaml based on the regular expression codes """
         with open(self.input_file) as input_file:
             data = yaml.load(input_file, yaml.FullLoader)
             url_list = data.get(self.url_access)
@@ -42,11 +54,10 @@ class Web_scraper():
 
         for url in url_list:
             # This restores the same behavior as before.
+            # Enabling certificate verification by default for stdlib http clients
             context = ssl._create_unverified_context()
-            
             run_time = datetime.now().strftime("Date: %d-%m-%Y Time: %I:%M:%S:%f_%p")
             start = time.perf_counter()
-            # web_req = request.Request(url)
             web_resp = request.urlopen(url, context=context)
             respData = web_resp.read()
             resp_time = '%0.2f s' % (time.perf_counter() - start)
@@ -62,18 +73,16 @@ class Web_scraper():
                         for content in contents:
                             print(run_time, ' | URL: ', url, ' | Response Time: ', resp_time,
                                   url, ' | Contents: ', content, file=file)
+                            
         with open(self.output_file, 'a') as file:
             
             print('\n#################################\n', file=file)
-
 
 def main():
     input_ = sys.argv[1]
     result = Web_scraper(input_, 'URLs', 'RegEx')
     result.fetch_web_cont()
-
-    
-
+   
 
 if __name__ == '__main__':
     fetch_count = {'fetch_count': 1}
