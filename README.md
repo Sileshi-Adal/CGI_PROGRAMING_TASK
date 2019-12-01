@@ -1,7 +1,7 @@
 # PROGRAMING_TASK
 
 ## web scraping programming using regular expression 
-This program is a Python 3.6.3  Web scraping programming task, which scraps the a configured grouped list of urls based on the given 
+This program is a Python 3.6.3  Web scraping programming task, which scraps a configured grouped list of urls based on the given 
 regular expersion codes as an input_file and save the fetched content as a result_file.text form.
 
 ## Task_Requirement 
